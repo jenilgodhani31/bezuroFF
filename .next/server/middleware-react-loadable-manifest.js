@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages\\\\_app.js -> react-onesignal\":{\"id\":\"pages\\\\_app.js -> react-onesignal\",\"files\":[\"static/chunks/node_modules_react-onesignal_dist_index_es_js.js\"]}}"
